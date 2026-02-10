@@ -1,11 +1,11 @@
-### Desafio Técnico: Criação de uma WebAPI com .NET 6 e Front-end em React com Autenticação
+### Desafio Técnico: Criação de uma WebAPI com .NET 8 e Front-end em React com Autenticação
 
 #### Objetivo
 Desenvolver uma aplicação web que permita gerenciar informações de estudantes, incluindo listagem, adição, atualização e exclusão de registros. A aplicação deve ser composta por uma WebAPI desenvolvida com .NET 6 e um front-end desenvolvido em React, incluindo uma tela de login.
 
 #### Requisitos
 ##### Back-end (WebAPI)
-1. **Framework**: .NET 6.
+1. **Framework**: .NET 8.
 2. **Entity Framework**: Usar o EF Core com um banco de dados em memória.
 3. **Autenticação**: Implementar autenticação básica (JWT).
 4. **Endpoints**:
